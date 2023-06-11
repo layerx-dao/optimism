@@ -8,5 +8,6 @@
     "editorconfig.editorconfig",
     "juanblanco.solidity",
     "golang.go",
+    "cooper.ssh-terminal"
   ],
 }
